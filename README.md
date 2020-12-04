@@ -1,1 +1,1 @@
-# 11.-Operaciones_entero_con_float_python
+# Este programa muestra la suma de dos variables, de tipo int y float
